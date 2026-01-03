@@ -1,1 +1,1 @@
-# Tic-Tac-Toe1
+A classic game of tic-tac-toe, developed in Java.
